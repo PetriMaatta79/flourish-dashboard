@@ -1,0 +1,1 @@
+Tämä on Flourish-dashboardin HTML-pohja. Avaa index.html tekstieditorissa ja korvaa iframe-linkit omilla storylinkeilläsi.
